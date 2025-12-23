@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Go8ebeXZWEXAKgQrS3N7llxPc+KGVh/SomZH+SV3R5k=",
+  "Source": "MyAPi",
+  "BasePath": "_content/MyAPi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
